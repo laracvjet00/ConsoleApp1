@@ -8,6 +8,7 @@ namespace ConsoleApp1
 {
     internal class Class1
     {
+    //komentar
     }
     internal class Class2
     {
